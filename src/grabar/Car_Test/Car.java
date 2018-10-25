@@ -1,7 +1,5 @@
 package grabar.Car_Test;
 
-import com.sun.tools.internal.xjc.model.CArrayInfo;
-
 public class Car {
 
     private static int idAll;
@@ -17,7 +15,6 @@ public class Car {
     public Car() {
 
     }
-
 
     public Car(String carBrand, String model, int year, String colour, int price, int registrationNumber) {
         this.carBrand = carBrand;
@@ -56,6 +53,4 @@ public class Car {
                 + " year:" + getYear()
                 + " price:" + getPrice());
     }
-
-
 }

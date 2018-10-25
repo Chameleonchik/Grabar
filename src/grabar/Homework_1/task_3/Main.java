@@ -4,12 +4,12 @@ import grabar.Homework_1.util.Util;
 
 public class Main {
     public static void main(String[] args) {
-        int i = 0;
-        System.out.println("enter start Capital:");
+
+        System.out.println("Enter start Capital:");
         double startCapital = Util.inputIntValue();
-        System.out.println("enter persent:");
+        System.out.println("Enter persent:");
         double persent = Util.inputIntValue();
-        System.out.println("enter finish Capital:");
+        System.out.println("Enter finish Capital:");
         double finishCapital = Util.inputIntValue();
         int years = 0;
         /**

@@ -5,9 +5,9 @@ public class Main {
         public static void main(String[] args) {
             int count = 0;
 
-            System.out.println("enter number:");
+            System.out.println("Enter number:");
             int a = Util.inputIntValue();
-            System.out.println("enter numeral:");
+            System.out.println("Enter numeral:");
             int b = Util.inputIntValue();
             System.out.println(a + " " + b);
             System.out.println("Numeral " + b + " repeat in number " + a);

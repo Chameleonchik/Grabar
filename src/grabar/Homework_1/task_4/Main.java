@@ -5,7 +5,7 @@ import grabar.Homework_1.util.Util;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Enter size:");
-        int size = Util.inputIntValue();;
+        int size = Util.inputIntValue();
 
         for (int i = 0; i < size; i++) {
             int array[] = new int[i + 1];

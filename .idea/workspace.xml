@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfab1a86-9e71-40b7-abb7-a89c507a37a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grabar/Stream_task/ArrayFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grabar/Stream_task/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/CarOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/CarOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/MainCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/MainCars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grabar/Car_Test/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Car_Test/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,33 +28,38 @@
     <session id="1261056389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="6" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="55" />
+          <entry key="java" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="55" />
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="83" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2624" />
+          <entry key="class" value="23" />
+          <entry key="java" value="5021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2624" />
+          <entry key="CLASS" value="23" />
+          <entry key="JAVA" value="5021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -51,52 +68,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/MainCars.java">
+        <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/ArrayFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="31">
+              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1609#1610#0" expanded="true" />
-                <element signature="e#1656#1657#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/CarOptions.java">
+        <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state relative-caret-position="367">
+              <caret line="121" column="1" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="121" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="2983" selection-start-line="2983" selection-end-line="2983" />
             </state>
           </provider>
         </entry>
@@ -118,18 +126,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/grabar/Homework_1/util/Util.java" />
         <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_2/Main.java" />
-        <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java" />
-        <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java" />
         <option value="$USER_HOME$/Downloads/Chameleon/src/main/java/epam/matrix/Summator.java" />
         <option value="$PROJECT_DIR$/src/grabar/Homework_2/Main.java" />
         <option value="$PROJECT_DIR$/src/grabar/Homework_2/MatrixFactory.java" />
         <option value="$PROJECT_DIR$/src/grabar/Homework_2/Summator.java" />
-        <option value="$PROJECT_DIR$/src/grabar/Homework_2/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java" />
         <option value="$PROJECT_DIR$/src/grabar/Test_Java/Main.java" />
         <option value="$PROJECT_DIR$/src/grabar/Test_Java/Logic.java" />
-        <option value="$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java" />
-        <option value="$PROJECT_DIR$/src/grabar/Car_Test/Car.java" />
         <option value="$PROJECT_DIR$/src/grabar/Homework_3/Inforntion.java" />
         <option value="$PROJECT_DIR$/src/grabar/Homework_3/Region.java" />
         <option value="$PROJECT_DIR$/src/.gitignore" />
@@ -137,13 +139,22 @@
         <option value="$PROJECT_DIR$/src/grabar/Homework_3/Ukraine.java" />
         <option value="$PROJECT_DIR$/src/grabar/Car_Test/MainCars.java" />
         <option value="$PROJECT_DIR$/src/grabar/Car_Test/CarOptions.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Car_Test/Car.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Homework_2/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Stream_task/Input.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Stream_task/Main.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Stream_task/ArrayFactory.java" />
+        <option value="$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="805" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,6 +172,11 @@
             <path>
               <item name="EPAM" type="b2602c69:ProjectViewProjectNode" />
               <item name="EPAM" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -174,7 +190,11 @@
               <item name="EPAM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="grabar" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Stream_task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -185,8 +205,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539884649355" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540466633010" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright" />
@@ -203,13 +223,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainCars">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grabar.Homework_3.Main" />
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grabar.Homework_1.task_1.Main" />
       <module name="EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="grabar.Homework_3.*" />
+          <option name="PATTERN" value="grabar.Homework_1.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +238,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grabar.Homework_1.task_4.Main" />
+      <option name="MAIN_CLASS_NAME" value="grabar.Homework_1.task_1.Main" />
       <module name="EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="grabar.Homework_1.task_4.*" />
+          <option name="PATTERN" value="grabar.Homework_1.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grabar.Test_Java.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grabar.Stream_task.Main" />
       <module name="EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="grabar.Test_Java.*" />
+          <option name="PATTERN" value="grabar.Stream_task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +264,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grabar.Homework_1.task_1.Main" />
+      <option name="MAIN_CLASS_NAME" value="grabar.Homework_1.task_4.Main" />
       <module name="EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="grabar.Homework_1.task_1.*" />
+          <option name="PATTERN" value="grabar.Homework_1.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.MainCars" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainCars" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.MainCars" />
       </list>
     </recent_temporary>
   </component>
@@ -300,9 +320,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,17 +330,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959327" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40120482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.37604457" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3746988" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32959327" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,7 +351,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,14 +360,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37935844" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37482518" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32959327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -396,62 +416,6 @@
     <entry file="file://$USER_HOME$/Downloads/MatrixTask/MatrixFactory.java" />
     <entry file="file://$USER_HOME$/Downloads/MatrixTask/Summator.java" />
     <entry file="file://$USER_HOME$/Downloads/MatrixTask/Runner.java" />
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/Summator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/MatrixFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/grabar/Test_Java/Logic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -473,13 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/util/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -498,10 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#148#156#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,27 +476,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/MainCars.java">
+    <entry file="file://$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/util/Util.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_2/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#1196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_3/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_4/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <folding>
+            <element signature="e#0#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_1/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/Summator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_2/MatrixFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/CarOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/Input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/MainCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1609#1610#0" expanded="true" />
@@ -552,16 +620,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grabar/Car_Test/CarOptions.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        <state relative-caret-position="-17">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/ArrayFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="2983" selection-start-line="2983" selection-end-line="2983" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="121" column="1" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="121" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
