@@ -1,15 +1,14 @@
 package grabar.Stream_task;
 
 import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class ArrayOptions {
-    /*
-
     /**
     ArrayList<Integer>
-    /
+    */
     public static ArrayList<Integer> showArray(ArrayList<Integer> number) {
 
         return (ArrayList<Integer>) number.stream()
@@ -37,86 +36,85 @@ public class ArrayOptions {
                 .min(Integer::compareTo).get();
     }
 
-    public static ArrayList<Integer> multiplication(ArrayList<Integer> number) {
-        System.out.println("Введите число M:");
-        int numbe = ArrayFactory.inputIntValue();
-
-        return (ArrayList<Integer>) number.stream()
+    public static ArrayList<Double> multiplication(ArrayList<Integer> number, double numbe) {
+        return (ArrayList<Double>) number.stream()
                 .map(num -> num * numbe)
                 .collect(Collectors.toList());
     }
-    */
+
 
     /**
-     Arrays.stream()
+     * Arrays.stream()
      */
 
-    public static double average(int [] array) {
+    public static double average(int[] array) {
 
         return Arrays.stream(array).average().getAsDouble();
     }
 
-    public static int min(int [] array) {
+    public static int min(int[] array) {
 
         return Arrays.stream(array).min().getAsInt();
     }
-    public static int minIndex(int [] array) {
+
+    public static int minIndex(int[] array) {
 
         return Arrays.stream(array).boxed().collect(Collectors.toList()).indexOf(min(array));
     }
-    public static int filterZero(int [] array) {
+
+    public static int filterZero(int[] array) {
 
         return (int) Arrays.stream(array).filter(arr -> arr == 0).count();
     }
 
-    public static int filterMoreZero(int [] array) {
+    public static int filterMoreZero(int[] array) {
 
         return (int) Arrays.stream(array).filter(arr -> arr > 0).count();
     }
 
-    public static int [] multiplication(int [] array) {
-        System.out.println("Введите число M:");
-        int numbe = ArrayFactory.inputIntValue();
-        for (int i=0; i< array.length; i++) {
-            System.out.print(Arrays.stream(array).map(arr -> arr*numbe).toArray()[i] + " ");
+    public static double[] multiplication(int[] array, int numbe) {
+        for (int i = 0; i < array.length; i++) {
+            System.out.printf("%.3f ", IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray()[i]);
+
         }
-        return Arrays.stream(array).map(arr -> arr*numbe).toArray();
+        return Arrays.stream(array).mapToDouble(arr -> arr * numbe).toArray();
     }
 
     /**
-     IntStream
+     * IntStream
      */
 
-    public static double averageIntSream(int [] array) {
+    public static double averageIntSream(int[] array) {
 
         return IntStream.of(array).average().getAsDouble();
     }
-    public static int minIntStream(int [] array) {
+
+    public static int minIntStream(int[] array) {
 
         return IntStream.of(array).min().getAsInt();
     }
-    public static int minIndexIntSream(int [] array) {
+
+    public static int minIndexIntSream(int[] array) {
 
         return IntStream.of(array).boxed().collect(Collectors.toList()).indexOf(minIntStream(array));
     }
-    public static long filterZeroIntSream(int [] array) {
 
-        return  IntStream.of(array).filter(arr -> arr == 0).count();
+    public static long filterZeroIntSream(int[] array) {
+
+        return IntStream.of(array).filter(arr -> arr == 0).count();
     }
 
-    public static long filterMoreZeroIntSream(int [] array) {
+    public static long filterMoreZeroIntSream(int[] array) {
 
         return IntStream.of(array).filter(arr -> arr > 0).count();
     }
 
-    public static double [] multiplicationIntSream(int [] array) {
-        System.out.println("Введите число M:");
-        double numbe = ArrayFactory.inputDoubleValue();
+    public static double[] multiplicationIntSream(int[] array, double numbe) {
 
-        for (int i=0; i< array.length; i++) {
-            System.out.printf("%.3f ", IntStream.of(array).mapToDouble(arr -> arr*numbe).toArray()[i]);
+        for (int i = 0; i < array.length; i++) {
+            System.out.printf("%.3f ", IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray()[i]);
 
         }
-        return IntStream.of(array).mapToDouble(arr -> arr*numbe).toArray();
+        return IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray();
     }
 }
