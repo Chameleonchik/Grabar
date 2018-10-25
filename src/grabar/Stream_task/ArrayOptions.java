@@ -99,14 +99,14 @@ public class ArrayOptions {
 
         return IntStream.of(array).boxed().collect(Collectors.toList()).indexOf(minIntStream(array));
     }
-    public static int filterZeroIntSream(int [] array) {
+    public static long filterZeroIntSream(int [] array) {
 
-        return (int) IntStream.of(array).filter(arr -> arr == 0).count();
+        return  IntStream.of(array).filter(arr -> arr == 0).count();
     }
 
-    public static int filterMoreZeroIntSream(int [] array) {
+    public static long filterMoreZeroIntSream(int [] array) {
 
-        return (int) IntStream.of(array).filter(arr -> arr > 0).count();
+        return IntStream.of(array).filter(arr -> arr > 0).count();
     }
 
     public static double [] multiplicationIntSream(int [] array) {

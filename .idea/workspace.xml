@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfab1a86-9e71-40b7-abb7-a89c507a37a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/grabar/Stream_task/ArrayFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grabar/Stream_task/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/CarOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/CarOptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/MainCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Car_Test/MainCars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EPAM/grabar/Homework_1/task_3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grabar/Car_Test/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Car_Test/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Car_Test/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Homework_1/task_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Homework_1/task_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Homework_1/task_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +27,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="java" value="83" />
         </counts>
       </usages-collector>
@@ -47,19 +35,21 @@
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="JAVA" value="83" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="23" />
-          <entry key="java" value="5021" />
+          <entry key="java" value="5044" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="23" />
-          <entry key="JAVA" value="5021" />
+          <entry key="JAVA" value="5044" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -91,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="121" column="1" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="121" selection-end-column="1" />
+            <state relative-caret-position="393">
+              <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,10 +91,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+        <entry file="file://$PROJECT_DIR$/src/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="2983" selection-start-line="2983" selection-end-line="2983" />
+            <state relative-caret-position="345">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,6 +142,12 @@
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
@@ -177,6 +173,12 @@
             <path>
               <item name="EPAM" type="b2602c69:ProjectViewProjectNode" />
               <item name="EPAM" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,7 +196,10 @@
             </path>
             <path>
               <item name="EPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="EPAM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="grabar" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,7 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540471277166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540477569931" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -317,10 +322,35 @@
       <option name="presentableId" value="Default" />
       <updated>1539526636952</updated>
     </task>
+    <task id="LOCAL-00001" summary="new Task with Sream()">
+      <created>1540471268671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540471268671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new Task with Sream()">
+      <created>1540471298435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540471298435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,10 +365,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3746988" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3746988" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -348,7 +378,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297568" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
@@ -382,6 +412,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new Task with Sream()" />
+    <option name="LAST_COMMIT_MESSAGE" value="new Task with Sream()" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/Chameleon/src/main/java/epam/matrix/MatrixFactory.java">
@@ -427,13 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -658,10 +685,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/grabar/Stream_task/ArrayOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="121" column="1" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="121" selection-end-column="1" />
+        <state relative-caret-position="393">
+          <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -744,5 +778,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
