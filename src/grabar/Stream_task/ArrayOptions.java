@@ -74,7 +74,7 @@ public class ArrayOptions {
 
     public static double[] multiplication(int[] array, int numbe) {
         for (int i = 0; i < array.length; i++) {
-            System.out.printf("%.3f ", IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray()[i]);
+            System.out.printf("%.2f ", IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray()[i]);
 
         }
         return Arrays.stream(array).mapToDouble(arr -> arr * numbe).toArray();
@@ -112,7 +112,7 @@ public class ArrayOptions {
     public static double[] multiplicationIntSream(int[] array, double numbe) {
 
         for (int i = 0; i < array.length; i++) {
-            System.out.printf("%.3f ", IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray()[i]);
+            System.out.printf("%.2f ", IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray()[i]);
 
         }
         return IntStream.of(array).mapToDouble(arr -> arr * numbe).toArray();

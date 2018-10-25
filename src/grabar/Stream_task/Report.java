@@ -5,7 +5,7 @@ public class Report {
 
         int[] array = ArrayFactory.createintArray();
         System.out.printf(View.INPUT_ARRAY_LENGTH, array.length);
-        System.out.println(View.AVERAGE_ARRAY_VALUE + ArrayOptions.averageIntSream(array));
+        System.out.printf(View.AVERAGE_ARRAY_VALUE, ArrayOptions.averageIntSream(array));
         System.out.println(View.MIN_INT_VALUE + ArrayOptions.minIntStream(array));
         System.out.println(View.MIN_INT_INDEX + ArrayOptions.minIndexIntSream(array));
         System.out.println(View.ZERO_ELEMENTS + ArrayOptions.filterZeroIntSream(array));
